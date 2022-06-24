@@ -1,5 +1,5 @@
 {
-  "$schema": "http://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
   "contentVersion": "1.0.0.0",
   "parameters": {
     "resourcePrefix": {
@@ -97,14 +97,14 @@
     },
     "repoURL": {
       "type": "string",
-      "defaultValue": "https://github.com/Microsoft/AzureSearch_JFK_Files",
+      "defaultValue": "https://github.com/morneMoyo/jfkfiles01.git",
       "metadata": {
         "description": "The URL for the GitHub repository that contains the project to deploy."
       }
     },
     "branch": {
       "type": "string",
-      "defaultValue": "master",
+      "defaultValue": "main",
       "metadata": {
         "description": "The branch of the GitHub repository to use."
       }
