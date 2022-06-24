@@ -1,0 +1,2 @@
+/Users/morne/Documents/Moyo/Azure Search JFK Files/AzureSearch_JFK_Files-master/JfkWebApiSkills/JfkInitializer/obj/Debug/JfkInitializer.csproj.AssemblyReference.cache
+/Users/morne/Documents/Moyo/Azure Search JFK Files/AzureSearch_JFK_Files-master/JfkWebApiSkills/JfkInitializer/obj/Debug/JfkInitializer.csproj.CoreCompileInputs.cache
